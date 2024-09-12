@@ -17,7 +17,6 @@ const wallets = [
         "telegram",
         "farcaster",
         "email",
-        "line",
         "passkey",
         "phone",
       ],
